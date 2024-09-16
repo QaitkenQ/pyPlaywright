@@ -20,3 +20,5 @@ class MainPage:
         expect(self.link.nth(5)).to_contain_text("More")
 
 
+    def ver_links_fail(self):
+        expect(self.link).to_have_count(4)
