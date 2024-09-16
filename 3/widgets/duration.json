@@ -1,0 +1,1 @@
+[{"uid":"1c38327522e570d9","name":"Verify the correct quantity is shown","time":{"start":1726497593307,"stop":1726497598858,"duration":5551},"status":"failed","severity":"normal"},{"uid":"e16ffe6315d3d388","name":"Verify the correct list of options are shown","time":{"start":1726497593028,"stop":1726497593256,"duration":228},"status":"passed","severity":"normal"}]
