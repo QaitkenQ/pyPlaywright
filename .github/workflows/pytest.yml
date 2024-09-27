@@ -1,9 +1,9 @@
 name: Pytest API
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, httpx_api ]
   pull_request:
-    branches: [ main, master ]
+    branches: [ main, master, httpx_api  ]
 
 jobs:
   test:
