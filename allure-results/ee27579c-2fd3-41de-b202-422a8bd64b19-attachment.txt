@@ -1,0 +1,3 @@
+
+status code is 200
+response body is {'tags': ['Test', 'GitHub', 'Coding', 'Bondar Academy', 'qa career', 'Git', 'Zoom', 'Enroll', 'YouTube', 'Value-Focused']}
